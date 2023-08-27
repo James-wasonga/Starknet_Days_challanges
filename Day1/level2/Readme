@@ -1,0 +1,5 @@
+## starknet scalabiltiy,privacy and security
+
+- Starknet is a permissionless network that leverages the power of zk-STARKs technology for scalability: lower costs, faster transactions
+-  Starknet offers fast, secure, and low-cost transactions. It functions as a Validity Rollup (commonly known as a zero-knowledge Rollup) that uses cryptographic systems called STARKs to reduce computation costs.
+- It provides scalability by enabling the batching of multiple proofs into one, reducing the computational and storage requirements.

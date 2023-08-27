@@ -1,0 +1,6 @@
+## starkware
+- StarkWare is a leading company in the development of scalable and secure blockchain solutions.
+ - Its STARK proof system has the potential to revolutionize the blockchain industry by enabling significantly higher throughput and lower costs.
+
+## How StarkEx leverage STARK proofs to ensure the validity of large batches of transactions off-chain
+ The off-chain Prover processes large batches of transactions and generates a STARK proof. The on-chain Verifier checks the STARK proof in a few computational steps. This enables massive scaling off-chain, where we process large computations whose integrity is then enforced on-chain with minimal computation.

@@ -1,0 +1,5 @@
+## Cairo design and proccessor unique
+Cairo is a programming language designed for a virtual CPU of the same name. The unique aspect of this processor is that it was not created for the physical constraints of our world but for cryptographic ones, making it capable of efficiently proving the execution of any program running on it. This means that you can perform time consuming operations on a machine you don't trust, and check the result very quickly on a cheaper machine.
+
+## Cairo's virtual CPU handle cryptographic constraints 
+It can perform time consuming operations on a machine you don't trust, and check the result very quickly on a cheaper machine.
